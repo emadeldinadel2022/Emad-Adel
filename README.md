@@ -17,16 +17,16 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-<a href="https://en.wikipedia.org/wiki/SQL" target="blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.freepik.com/512/4248/4248443.png" alt="sql" width="50" height="45"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.freepik.com/512/4248/4248443.png" alt="sql" width="50" height="45"/></a>
 <a href="https://www.oracle.com/eg/database/technologies/appdev/plsql.html#:~:text=PL%2FSQL%20is%20a%20procedural,and%20stored%20inside%20the%20database" target="blank" rel="noreferrer"> <img align="center" src="https://oralytics.files.wordpress.com/2022/10/pl-sql_icon-1.png" alt="plsql" width="50" height="45"/></a>
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" height="40" width="40" /></a>
-<a href="https://www.java.com/en/" target="blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="55" height="50"/></a> 
-<a href="https://www.scala-lang.org/" target="blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" height="40" width="40" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="55" height="50"/></a> 
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" width="40" height="40"/></a>
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img align="center" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="bash" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40"/></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
-
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40"/></a>
 
 
 
