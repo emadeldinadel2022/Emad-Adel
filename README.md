@@ -27,15 +27,16 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40"/></a>
-
-
-
-   
 </p>
 
 <h3 align="left">Database and NoSQL Systems:</h3>
 <p align="left"> 
-   
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img align="center" src="https://5.imimg.com/data5/SELLER/Default/2022/7/FT/WW/IM/7756102/oracle-database-enterprise-edition-license-1-processor.png" alt="oracle" width="60" height="60"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="60" height="60"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://assets-global.website-files.com/632d8bdfaa198525e29dd55e/641c1b4e02e8cc2d3f9b010f_mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" alt="postgres" width="60" height="60"/></a>
+
+
+ 
 </p>
 
 <h3 align="left">Big Data Frameworks:</h3>
