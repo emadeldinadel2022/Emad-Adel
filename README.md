@@ -2,7 +2,7 @@
 <h3 align="center">Junior Data Engineer: Passionately Crafting Data Solutions</h3>
 <p align="center">I am currently undergoing a 9-month data management program at the Information Technology Institute. I graduated from the Faculty of Computers and Data Science at Alexandria University.</p>
 
-<p align="center">I am deeply enthusiastic about constructing robust and optimized data pipelines. This involves extracting data from downstream source systems, storing it in suitable storage systems, and applying transformations to generate valuable, cohesive data. These pipelines serve upstream analytics and data science efforts, enabling the solution of business problems and the development of robust data solutions.</p><br>
+<p align="center">I am passionate about constructing robust and optimized data pipelines. This involves extracting data from downstream source systems, storing it in suitable storage systems, and applying transformations to generate valuable, cohesive data. These pipelines serve upstream analytics and data science efforts, enabling the solution of business problems and the development of robust data solutions.</p><br>
 
 <p align="center"><img src="https://miro.medium.com/v2/resize:fit:1358/1*n3FAnk_c97ptZt1YW7cEqw.gif" alt="Gift" width="1000" height="500"></p><br>
 
@@ -41,7 +41,14 @@
 
 <h3 align="left">Big Data Frameworks:</h3>
 <p align="left"> 
-   
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hadoop_logo_icon_169586.png"
+ alt="C" width="60" height="60"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png"
+ alt="C" width="60" height="60"/></a>
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png" alt="C" width="60" height="60"/></a>
+<a href="https://impala.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://zeenea.com/wp-content/uploads/2022/07/apache-impala-logo@2x.png" alt="C" width="70" height="60"/></a>
+
+
 </p>
 
 <h3 align="left">Data Analysis Tools:</h3>
