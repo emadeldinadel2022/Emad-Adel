@@ -65,8 +65,13 @@
 
 <h3 align="left">Data Visualization and BI Tools:</h3>
 <p align="left"> 
-   
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://www.dbgurus.com.au/wp-content/uploads/2023/05/power-bi-icon-7.png" alt="C" width="80" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="C" width="80" height="90"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" alt="C" width="50" height="40"/></a>
+  
 </p>
+
+
 
 <h3 align="left">ETL Tools:</h3>
 <p align="left"> 
