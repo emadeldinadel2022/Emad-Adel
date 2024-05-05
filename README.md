@@ -27,16 +27,14 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" alt="dart" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="left">Database and NoSQL Systems:</h3>
 <p align="left"> 
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img align="center" src="https://5.imimg.com/data5/SELLER/Default/2022/7/FT/WW/IM/7756102/oracle-database-enterprise-edition-license-1-processor.png" alt="oracle" width="60" height="60"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgres" width="60" height="60"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://assets-global.website-files.com/632d8bdfaa198525e29dd55e/641c1b4e02e8cc2d3f9b010f_mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" alt="postgres" width="60" height="60"/></a>
-
-
- 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://assets-global.website-files.com/632d8bdfaa198525e29dd55e/641c1b4e02e8cc2d3f9b010f_mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png" alt="postgres" width="60" height="60"/></a> 
 </p>
 
 <h3 align="left">Big Data Frameworks:</h3>
@@ -48,11 +46,20 @@
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png" alt="C" width="60" height="60"/></a>
 <a href="https://impala.apache.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://zeenea.com/wp-content/uploads/2022/07/apache-impala-logo@2x.png" alt="C" width="70" height="60"/></a>
 
-
 </p>
 
-<h3 align="left">Data Analysis Tools:</h3>
+<h3 align="left">Python Data Tools:</h3>
 <p align="left"> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" alt="C" width="80" height="60"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="C" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="C" width="70" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="C" width="70" height="60"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="C" width="70" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://keras.io/img/logo.png" alt="C" width="70" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="C" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="C" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d7/20231226153634%21SQLAlchemy.svg/120px-SQLAlchemy.svg.png" alt="C" width="60" height="70"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/04/56856232112.png" alt="C" width="60" height="50"/></a>
    
 </p>
 
