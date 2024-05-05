@@ -13,6 +13,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/567emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/567emad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/567emad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/567emad/" height="30" width="40" /></a>
   <a href="https://kaggle.com/https://www.kaggle.com/emadadel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/emadadel" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Programming Languages:</h3>
@@ -75,17 +76,29 @@
 
 <h3 align="left">ETL Tools:</h3>
 <p align="left"> 
-   
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://companieslogo.com/img/orig/INFA_BIG-13006792.png?t=1636076858" alt="C" width="100" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://www.nextpathway.com/hubfs/IBM%20Data%20Stage%20Logo_Transparent%20200x70-Second.png" alt="C" width="100" height="40"/></a>
+
+ 
 </p>
 
 <h3 align="left">Cloud and Data Platforms:</h3>
 <p align="left"> 
-   
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="C" width="50" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" alt="C" width="50" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://exchange.tableau.com/_next/image?url=https%3A%2F%2Fgalleryapi.tableau.com%2Fproductfiles%2F267%2FIncorta_Icon.png&w=256&q=75" alt="C" width="50" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png" alt="C" width="50" height="60"/></a>
+
+  
 </p>
 
 <h3 align="left">Operation Tools:</h3>
 <p align="left"> 
-   
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-21-1174928.png" alt="C" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="C" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="C" width="50" height="50"/></a>
+  
+
 </p>
 
 
