@@ -107,7 +107,7 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emadeldinadel2022&show_icons=true&locale=en&layout=compact" alt="emadeldinadel2022"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=emadeldinadel2022&show_icons=true&locale=en" alt="emadeldinadel2022"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=emadeldinadel2022&show_icons=true&theme=gruvbox&locale=en" alt="emadeldinadel2022"/>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=emadeldinadel2022" alt="emadeldinadel2022"/>
 </p>
